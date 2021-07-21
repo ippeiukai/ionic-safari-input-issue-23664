@@ -1,0 +1,8 @@
+{
+  "name": "repro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f7e6e842"
+}
